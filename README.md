@@ -1,4 +1,4 @@
-### Hi 👋, I'm Ronny Araujo
+<h1 align="center"> Hi 👋, I'm Ronny Araujo </h1>
 
 [![ronnyaraujo57 GitHub stats](https://github-readme-stats.vercel.app/api?username=ronnyaraujo57)](https://github.com/anuraghazra/github-readme-stats)
 
